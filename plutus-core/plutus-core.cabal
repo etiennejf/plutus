@@ -62,6 +62,7 @@ library
         PlutusCore.Evaluation.Machine.ExBudget
         PlutusCore.Evaluation.Machine.ExMemory
         PlutusCore.Evaluation.Machine.Exception
+        PlutusCore.Evaluation.Machine.ExBudgetingDefaults
         PlutusCore.Evaluation.Machine.MachineParameters
         PlutusCore.Evaluation.Result
         PlutusCore.Examples.Builtins
@@ -190,7 +191,6 @@ library
         PlutusCore.Default.Builtins
         PlutusCore.Default.Universe
         PlutusCore.Eq
-        PlutusCore.Evaluation.Machine.ExBudgetingDefaults
         PlutusCore.Lexer.Type
         PlutusCore.InlineUtils
         PlutusCore.Parsable
